@@ -1,0 +1,8 @@
+grpc11:
+  lib: /usr/local/Cellar/softhsm/2.1.0/lib/softhsm/libsofthsm2.so
+  sensitive: true
+  softverify: true
+  sessioncache: 20
+  address: localhost
+  port: 9876
+
